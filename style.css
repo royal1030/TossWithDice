@@ -1,0 +1,47 @@
+body{
+    background-color:  #393E46;
+
+}
+.image{
+    display: inline-block;
+    width: 25%;
+}
+.dice1{
+    display: inline-block;
+    margin: auto;
+    width: 40%;
+    margin-left:240px;
+}
+.dice2{
+    display: inline-block;
+    width: 40%;
+}
+h1{
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+    font-size: 8rem;
+    color: #4ECCA3;
+    margin-top: 0px;
+    margin-bottom: 26px;
+}
+.para{
+    display: block;
+    width: 30%;
+    
+    font-family: 'DM Serif Display', serif;
+    font-size: 2rem;
+    color: #4ECCA3;
+    text-align: center;
+    /* padding: 0px 0px;
+    margin: 0px 0px; */
+
+}
+.foot{
+    display: block;
+    color: white;
+    margin-top: 98px;
+    background-color: #636e91;
+    text-align: center;
+    /* width: 100%; */
+
+}
