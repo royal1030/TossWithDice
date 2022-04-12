@@ -1,4 +1,12 @@
 
+document.getElementsByClassName('btn')[0].addEventListener("click", function() {
+    // console.log(" 1st key pressed");
+    // this.style.color="white";
+    // console.log(this.innerHTML);
+    location.reload();
+
+});
+
 let random1=Math.ceil(1+(Math.random()*5));
 let randomdice1="dice"+random1+".png";
 let img1loc="images/"+randomdice1;
